@@ -1,0 +1,117 @@
+# Pensamento Computacional
+
+é um processo de pensamento onde elaboramos soluções com passos ou algoritmos para implementar no computador.
+
+ele é baseado em 4 pilares, sendo: decomposição>reconhecimento de padrões>abstração>design de algoritmos. Com o objetivo de dividir um problema complexo em subproblemas
+
+***decomposição***: dividir o problema em partes menores ou grupos
+
+***reconhecimento de padrões***: buscar coisas parecidas ou diferentes no problema
+
+***abstração***: extrapolar o conceito do problema para uma forma generalista, ou seja, achar um padrão que pode ser usado em outras coisas
+
+***design de algoritmos***: definir o passo a passo para a solução
+
+mesmo após achar a solução é importante testar a mesma diversas vezes e ir melhorando
+
+Com o pensamento computacional podemos construir melhor os sistema seja na area de TI ou qualquer outra, além de desenvolver a criatividade e o senso de equipe
+
+# Habilidades complementares
+
+as principais habilidades são **raciocínio logico** e o **aperfeiçoamento**.
+
+o **raciocínio logico**, é basicamente você observar e analisar algo e através da dedução você chega a uma conclusão, que pode ou não ser verdadeira.
+
+já o **aperfeiçoamento**, é basicamente o ato de melhorar os processos ou etapa de um produto ou serviço. Garantindo um melhor uso de recurso e código limpo e funções bem definidas.
+
+# Pilares
+
+**decomposição**: devemos começar pegando um problema complexo e dividindo ele em pedaços menores, facilitando sua analise.
+
+Depois de dividir o problema em menores partes, você deve dividir as variáveis, segmentos, problemas e causas.
+
+Com a decomposição é possível identificar onde as mudanças devem ocorrer, sem precisar recriar tudo do zero apenas alguns processos.
+
+**padrões**: é buscar coisas semelhantes ou referencias, que se repetem em algum ponto. Analisando seu modelo, estrutura e repetição
+
+reconhecemos os padrões através de Classes e Categorias, separando eles e melhor organizando
+
+# Introdução a lógica
+
+a lógica serve para solucionar um problema, que foge da regra. é planejar um passo a passo para atingir um objetivo, unindo o algoritmo e as etapas finais como um todo.
+
+# técnicas de lógica
+
+seguindo uma lógica podemos determinar as instruções para cada etapa e assim atingir o objetivo
+
+**estruturada**: ela segue uma hierarquia das etapas, podendo ter uma ou outra mudança
+
+**modular**: segue regras, simplificando ele e separando em parte menores criando módulos, assim mudando apenas o módulo necessário.
+
+# Fundamentos de algoritmos
+
+O computador é montado com instruções para passar dados e informações
+
+# Tipos de dados
+
+**numéricos**: nele temos os inteiros e os reais
+
+**caracteres**: símbolos, letras, números
+
+**lógico**: é o booleano > verdadeiro e falso
+
+# Variável
+
+é algo que serve para guardar um valor, mas que muda com o tempo, não tendo um valor fixo.
+
+mas esta restrita ao seu tipo, seja ele numérico ou string
+
+a variável é como se fosse uma caixa, podendo guardar valores ou tirar valores dela mesmo
+
+# Instruções Primitivas
+
+Instruções são linguagem de **palavras chaves** de determinada programação que tem como objetivo dar comandos ao computador para **executar uma tarefa**
+
+# Estruturas condicionais e operadores
+
+é quando devemos analisar uma condição e executar uma operação, como o comando “if” no caso
+
+Já os operadores nos ajudam a validar nossa condição como verdadeira ou não
+
+Também temos os operadores lógicos, sendo eles:
+
+**AND**: nesse caso ambas devem ser verdadeiras
+
+**OR**: ele valida uma ou outra como verdadeira
+
+**NOT**: deve ser oposto
+
+# Estruturas de repetição
+
+são os laços/loop que se repetem em um programa, tendo uma condição de paradas.
+
+a ideia de repetição é boa para reduzir a quantidade de linhas, deixando o código limpo e de mudança
+
+**enquanto … faça:** não temos um numero definido de repetições, ex > *cortar grama, enquanto tiver grama eu corto, se acabou parar de cortar se não continuar cortando.*
+
+**repita … até:** ele repete apenas uma vez até atingir o objetivo, ex > *folhear o livro até achar o capitulo que deseja*
+
+**para … de … até … faça:** nesse caso temos o numero de repetições definida, indo de um numero x até y, ex >*como por exemplo pular cordar, pule 100 pulos, enquanto não atingir o que seja ele não ira parar*
+
+Podemos mesclar os repitas um no outro sem problemas, de acordo com o código pedido.
+
+# Vetores e Matrizes
+
+**vetor** é uma sequencia de tipos de dados, ja a **matriz** é como uma tabela onde colocamos as informações
+
+# Funções
+
+é criar módulos para seu código, podendo reutilizar código em varias partes do código.
+
+são blocos como subalgoritmos, dentro do nosso código
+
+# Introdução a linguagem de programação
+
+a evolução do sofware só aconte
+
+# Introdução a linguagem de programação
