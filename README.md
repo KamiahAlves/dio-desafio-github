@@ -2,5 +2,5 @@
 primeiro repositório de teste das aulas para o BootCamp Santander - Code Girls
 
 ## links úteis
-[Sintaxe Basica Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
+[Sintaxe Basica Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)<br>
 [Dicas de estilo no GitHub](https://github.com/anuraghazra/github-readme-stats)
