@@ -1,0 +1,17 @@
+# Git e GitHu
+
+- link para download : https://git-scm.com/downloads
+
+# Importância do Git
+
+é bacana para salvar os rascunhos ou primeiras versões, apenas alterando o nome.
+
+o bom de salvar versões antigas, e poder voltar ao inicio do projeto e entender as mudanças feitas após cada nova mudança.
+
+tendo uma cronologia do desenvolvimento do seu sistema
+
+- O **Git é um sistema de versionamento de código** distribuído.
+
+- O **Git Bash** é um terminal extendido para otimizar o uso do Git.
+
+- **SHA** serve para criptografar os projetos, e ter uma identificação única de 40 dígitos
